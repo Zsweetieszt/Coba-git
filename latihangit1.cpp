@@ -4,4 +4,5 @@ int main (){
     cout << "gatau ah";
     cout << "pusing bang";
     cout << "pusing bang";
+    cout << "2";
 }
